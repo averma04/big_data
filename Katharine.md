@@ -1,7 +1,7 @@
-Where are you from?
-  Born in NYC
-  Currently live in SFO
-  Ethnically Korean, Japanese and Indian
+* Where are you from?
+  * Born in NYC
+  * Currently live in SFO
+  * Ethnically Korean, Japanese and Indian
   
 What are your hobbies and interests?
   Classical pianist
